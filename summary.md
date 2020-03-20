@@ -1,2 +1,0 @@
-* [Home](/)
-* [Todo](todo.md)
