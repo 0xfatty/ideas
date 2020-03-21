@@ -1,0 +1,2 @@
+* [Idea](/) 
+* [Todo](/todo)
