@@ -1,3 +1,0 @@
-
-* [Home](/)
-* [Guide](todo.md)

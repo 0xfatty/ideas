@@ -1,4 +1,4 @@
-# Ideas from saltbo
+# Ideas
 
 > 孵化中的idea见[issues](https://github.com/saltbo/issues)
 
@@ -6,8 +6,7 @@
 
 ## 警告
 
-> 本站记录个人的一些idea，欢迎有相同或类似idea的朋友来一起实现它：
->
+> 本站记录个人一些idea产出的产品，欢迎有相同或类似idea的朋友来一起完善维护它：
 > > **Idea无价，盗窃可耻**
 
 
@@ -21,6 +20,37 @@
 
 当然，如果你也有一些idea，也欢迎提交PR.
 
-## 已经完成的idea
+## 完成的idea
+### Zpan
+> 一个基于云存储的私有云网盘系统
 
-## 已经放弃的idea
+Demo: https://zpan.saltbo.cn
+
+Source: https://github.com/saltbo/zpan
+
+Features:
+-  File Manage
+-  Folder Manage
+-  File & Folder Share
+-  Picture library
+-  Storage Capacity Control
+-  RecycleBin
+-  Support AliOSS
+-  Support Upyun
+-  Support Qiniuyun
+
+------
+### Gofbot
+
+> 一个通用的消息转发机器人
+
+Source: https://github.com/saltbo/gofbot
+
+------
+### Uptoc
+
+>一个用于将文件部署到云存储的cli工具
+
+Source: https://github.com/saltbo/uptoc
+
+## 放弃的idea
